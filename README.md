@@ -11,18 +11,18 @@
 <br>
 
 <p align="center"> 
-    <code><img title="Java" height="25" src="assets\java-original.svg"></code>
-    <code><img title="HTML5" height="25" src="assets\html5.svg"></code>
-    <code><img title="CSS" height="25" src="assets\css.svg"></code>
-    <code><img title="SASS" height="25" src="assets\sass.svg"></code>
-    <code><img title="JavaScript" height="25" src="assets\javascript.svg"></code>
-    <code><img title="jQuery" height="25" src="assets\jquery-original.svg"></code>
-    <code><img title="Bootstrap" height="25" src="assets\bootstrap.png"></code>
-    <code><img title="Springboot" height="25" src="assets\springboot.png"></code>
-    <code><img title="Git" height="25" src="assets\git-original.svg"></code>
-    <code><img title="GitHub" height="25" src="assets\github.svg"></code>
-    <code><img title="VsCode" height="25" src="assets\vscode.png"></code>
-    <code><img title="IntelliJ" height="25" src="assets\intellijpng.png"></code>
+    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/5466bce8280f6686fd846d36e1822e7855e6d71d/assets/java-original.svg"></code>
+    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/5466bce8280f6686fd846d36e1822e7855e6d71d/assets/html5.svg"></code>
+    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/5466bce8280f6686fd846d36e1822e7855e6d71d/assets/css.svg"></code>
+    <code><img title="SASS" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/5466bce8280f6686fd846d36e1822e7855e6d71d/assets/sass.svg"></code>
+    <code><img title="JavaScript" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/5466bce8280f6686fd846d36e1822e7855e6d71d/assets/javascript.svg"></code>
+    <code><img title="jQuery" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/5466bce8280f6686fd846d36e1822e7855e6d71d/assets/jquery-original.svg"></code>
+    <code><img title="Bootstrap" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/main/assets/bootstrap.png"></code>
+    <code><img title="Springboot" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/main/assets/springboot.png"></code>
+    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/5466bce8280f6686fd846d36e1822e7855e6d71d/assets/git-original.svg"></code>
+    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/5466bce8280f6686fd846d36e1822e7855e6d71d/assets/github.svg"></code>
+    <code><img title="VsCode" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/main/assets/vscode.png"></code>
+    <code><img title="IntelliJ" height="25" src="https://raw.githubusercontent.com/QuantumABI/QuantumABI/main/assets/intellijpng.png"></code>
 </p>
 <br>
 <p align="center"> 
