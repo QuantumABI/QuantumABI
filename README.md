@@ -22,6 +22,7 @@
     <code><img title="Git" height="25" src="assets\git-original.svg"></code>
     <code><img title="GitHub" height="25" src="assets\github.svg"></code>
     <code><img title="VsCode" height="25" src="assets\vscode.png"></code>
+    <code><img title="IntelliJ" height="25" src="assets\intellijpng.png"></code>
 </p>
 <br>
 <p align="center"> 
